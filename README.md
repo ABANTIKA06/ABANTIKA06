@@ -38,16 +38,8 @@ I'm a Data Analyst with 3+ years of experience  specializing in data analytics, 
 
 </p>
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ABANTIKA06&show_icons=true&theme=tokyonight"/>
-</p>
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABANTIKA06&layout=compact&theme=tokyonight"/>
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABANTIKA06&theme=tokyonight"/>
-</p>
-[![Abantika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ABANTIKA06&theme=react-dark)](https://github.com/ABANTIKA06)
+
+<!--[![Abantika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ABANTIKA06&theme=react-dark)](https://github.com/ABANTIKA06) -->
 
 ## 🐍 Contribution Snake
 
