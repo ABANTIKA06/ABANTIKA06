@@ -48,3 +48,9 @@ I'm a Data Analyst with 3+ years of experience  specializing in data analytics, 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABANTIKA06&theme=tokyonight"/>
 </p>
 [![Abantika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ABANTIKA06&theme=react-dark)](https://github.com/ABANTIKA06)
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/ABANTIKA06/ABANTIKA06/blob/output/github-contribution-grid-snake.svg" />
+</p>
