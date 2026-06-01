@@ -24,7 +24,7 @@ I'm a Data Analyst with 3+ years of experience  specializing in data analytics, 
 
 ## 🚀 Tech Stack
 
-## 🚀 Tech Stack
+
 
 <p align="center">
 
