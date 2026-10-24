@@ -13,7 +13,7 @@ Data Analyst • Data Engineer • Machine Learning Enthusiast
 
 ## 👩‍💻 About Me
 
-I'm a Data Analyst with 3+ years of experience  specializing in data analytics, business intelligence, KPI monitoring, and data-driven decision making. I enjoy solving business problems using data, building dashboards, automating reporting workflows, and uncovering insights through analytics.
+I'm a Data Analyst with 4+ years of experience  specializing in data analytics, business intelligence, KPI monitoring, and data-driven decision making. I enjoy solving business problems using data, building dashboards, automating reporting workflows, and uncovering insights through analytics.
 
 🔹 Python | SQL | Power BI 
 🔹 Data Analytics & Business Intelligence  
